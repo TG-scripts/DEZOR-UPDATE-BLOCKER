@@ -1,0 +1,5 @@
+provider: generic
+url: https://www.google.com
+updaterCacheDirName: dezor-updater-patcher
+publisherName:
+  - Dezor Pa
